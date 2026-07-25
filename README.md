@@ -20,7 +20,7 @@ A simple Weather App built using HTML, CSS, and JavaScript. This project allows 
 
 ## Preview
 
-![Weather App](screenshot.png)
+![Weather App](weather.jpeg)
 
 ## Author
 
